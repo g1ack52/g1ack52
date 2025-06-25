@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a Master's student in **Automation and Control Engineering**, with a strong interest in intelligent systems and autonomous agents.
+I'm a Master's student in **Automation and Control Engineering** at Politecnico di Milano, with a strong interest in intelligent systems and autonomous agents.
 
 🔍 I’m passionate about:
 - Control systems & feedback theory
