@@ -1,9 +1,38 @@
-<h1 align="center">Hi 👋, I'm Giack</h1>
-<h3 align="center">Passionate about robotics and autonomous systems</h3>
+# 👋 Hi there!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a Master's student in **Automation and Control Engineering**, with a strong interest in intelligent systems and autonomous agents.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🔍 I’m passionate about:
+- Control systems & feedback theory
+- Robotics and autonomous navigation
+- Multi-agent systems and AI for decision-making
+
+🛠️ I like to build things with:
+- `C` / `C++` for performance-critical applications
+- `Python` for quick prototyping and data analysis
+- `ROS` (Robot Operating System) for integrating robotic systems
+
+---
+
+## 🚀 What I'm currently up to
+
+- Exploring motion planning and control for mobile robots
+- Working on university projects involving ROS and model predictive control
+- Always learning — currently diving deeper into optimization and real-time systems
+
+---
+
+## 🧠 Interests & Goals
+
+I'm particularly drawn to problems where **math meets machines** — whether it's stabilizing a quadcopter, coordinating swarm robots, or designing smart controllers that adapt to uncertainty.
+
+My long-term goal is to contribute to the development of **autonomous, safe, and intelligent systems** that can operate reliably in the real world.
+
+---
+
+## 📫 Let's connect!
+
+Feel free to reach out if you're working on cool robotics/control projects or just want to chat about autonomous systems.
+
+- Email: `your.email@example.com`
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
