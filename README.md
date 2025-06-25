@@ -11,6 +11,7 @@ I'm a Master's student in **Automation and Control Engineering** at Politecnico 
 - `C` / `C++` for performance-critical applications
 - `Python` for quick prototyping and data analysis
 - `ROS` (Robot Operating System) for integrating robotic systems
+- `MATLAB` and `Simulink` for modeling, simulation, and control design 
 
 ---
 
