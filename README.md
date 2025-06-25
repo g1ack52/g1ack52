@@ -35,4 +35,4 @@ My long-term goal is to contribute to the development of **autonomous, safe, and
 Feel free to reach out if you're working on cool robotics/control projects or just want to chat about autonomous systems.
 
 - Email: `gg.galbiatigiacomo@gmail.com`
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/giacomo-galbiati-2b03292ba/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/giacomo-galbiati-2b03292ba/)
