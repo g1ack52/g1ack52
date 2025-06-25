@@ -17,7 +17,7 @@ I'm a Master's student in **Automation and Control Engineering** at Politecnico 
 
 ## 🚀 What I'm currently up to
 
-- Exploring motion planning and control for mobile robots
+- Exploring motion planning and control for robots
 - Working on university projects involving ROS and model predictive control
 - Always learning — currently diving deeper into optimization and real-time systems
 
